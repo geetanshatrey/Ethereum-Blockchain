@@ -1,0 +1,24 @@
+{
+    "companies":
+    [
+        {
+            "name": "Google",
+            "noOfEmplyees": 15000,
+            "ceo": "Sundar Pichai",
+            "rating": 4.8
+        } ,
+        {
+            "name": "Amazon",
+            "noOfEmplyees": 45000,
+            "ceo": "Jeff Bezos",
+            "rating": 4.5
+        } ,
+        {
+            "name": "Ather Energy",
+            "noOfEmplyees": 400,
+            "ceo": null, 
+            "rating": 4.0
+        }
+    ]
+}
+
