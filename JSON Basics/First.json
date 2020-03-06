@@ -1,0 +1,19 @@
+{
+    "name": "Geetansh",
+    "favouriteNumber": 10,
+    "isProgrammer": true,
+    "hobbies":["Coding","Sports","Politics"],
+    "friends":
+    [
+        {"name": "X",
+        "favouriteNumber": 9,
+        "isProgrammer": true,
+        "hobbies":["Coding","Singing","Cars"]},
+
+        {"name": "Y",
+        "favouriteNumber": 23,
+        "isProgrammer": false,
+        "hobbies":["Drawing","Cycling","Dancing"]}
+    ]
+}
+
