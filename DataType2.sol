@@ -4,6 +4,7 @@ contract DataType2 {
     //1. fixed-size types
     bool isReady;
     uint a;
+    uint256 b;
     address recipient;
     bytes32 data; //stores binary data
 
